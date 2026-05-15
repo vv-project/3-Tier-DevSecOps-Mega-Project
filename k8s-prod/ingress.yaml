@@ -47,5 +47,5 @@ spec:
   tls:
     - hosts:
         - vvram143.com
-        - www.adityajaiswal.com
-      secretName: adityajaiswal-co-tls
+        - www.vvram143.com
+      secretName: vvram143-co-tls
